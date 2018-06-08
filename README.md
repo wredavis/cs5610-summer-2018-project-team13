@@ -1,1 +1,1 @@
-# cs5610-summer-2018-project-team13
+# This repository is a project requirement for CS5610 Web Development summer 2018.
